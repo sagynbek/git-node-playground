@@ -12,4 +12,6 @@ let feature2 = "done";
 
 let feature3 = 'done';
 let feature4 = "done";
+
 let fix1 = 'done';
+let fix2 = "done";
